@@ -1,1 +1,8 @@
-Телеграм бот, котоырй позволяет пользователям создать и найти заказ в их городе
+# Find work easy
+Telegram bot that allows users to create and find an order in their city
+
+### Technologies:
+* Python
+* SqlLite3
+* Telegram bot api
+
